@@ -1,0 +1,74 @@
+[
+    {
+        "id":0,
+        "name":"Tom",
+        "image":"assets/images/tom.png",
+        "isClicked": false
+    },
+    {
+        "id":1,
+        "name":"Jerry",
+        "image":"assets/images/jerry.png",
+        "isClicked":false
+    },
+    {
+        "id":2,
+        "name":"Dog",
+        "image":"assets/images/dog.png",
+        "isClicked":false
+    },
+    {
+        "id":3,
+        "name":"Girl Mouse",
+        "image":"assets/images/girl_mouse.png",
+        "isClicked":false
+    },
+    {
+        "id":4,
+        "name":"Jerry2",
+        "image":"assets/images/jerry2.png",
+        "isClicked":false
+    },
+    {
+        "id":5,
+        "name":"Jerry3",
+        "image":"assets/images/jerry3.png",
+        "isClicked":false
+    },
+    {
+        "id":6,
+        "name":"Angry Tom",
+        "image":"assets/images/angry_tom.png",
+        "isClicked":false
+    },
+    {
+        "id":7,
+        "name":"Old Lady",
+        "image":"assets/images/old_lady.png",
+        "isClicked":false
+    },
+    {
+        "id":8,
+        "name":"Nibbles",
+        "image":"assets/images/nibbles.png",
+        "isClicked":false
+    },
+    {
+        "id":9,
+        "name":"Togerher",
+        "image":"assets/images/together.png",
+        "isClicked":false
+    },
+    {
+        "id":10,
+        "name":"Woman Cat",
+        "image":"assets/images/woman_cat.png",
+        "isClicked":false
+    },
+    {
+        "id":11,
+        "name":"Other Cat",
+        "image":"assets/images/other_cat.png",
+        "isClicked":false
+    }
+]
